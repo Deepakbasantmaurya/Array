@@ -1,0 +1,111 @@
+<html>
+    <head>
+    <h1>This is my second web
+   <pre> I am completing my schooling 12<sup>th</sup> in jbic collage 
+   my first chemistry experiment is on hardness of water( H<sub>2</sub>o)
+    </h1>
+    </head>
+    <header>
+        <table>
+            <thead>
+                <caption>
+                    STUDENT DATA
+                </caption>
+                <tr>
+                    <th colspan="4">
+                        INFORMATION
+                    </th>
+                    </tr>
+                    <tr>
+                <th><p>
+                    NAME
+                </p></th>
+                <th><pre> ROLL NO.</pre></th>
+                <th><pre> profilepic</pre></th>
+                <th> <pre>   profile</pre></th>
+            </tr>
+            <br>
+            </thead>
+        <tbody>    <tr>
+                <td><pre>DEEPAK MAURYA</pre></td>
+                <td><pre>    220428010061</pre></td>
+                <td> <pre>     <img scr="https://photos.app.goo.gl/22HajRs7mZSBv1SA6"alt="pic"></a></pre> </td>
+                <td> <pre>   <a href="https://photos.app.goo.gl/22HajRs7mZSBv1SA6">picture</a></pre> </td>
+            </tr>
+        </table>
+    <</tbody>
+    </header>
+    
+    <main>
+        <section><pre> <a href="https://github.com/Deepakbasantmaurya/linklist/commit/35e22b7b5e82294fb5fe9d29753ee046f64b50b3"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" width="100px">git hub</a></pre></section>
+  <hr>
+   <section><pre><a href="https://www.linkedin.com/in/deepak-maurya-217ba2290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">linkedin</a>
+    </main>
+    <footer>
+        <ol><!--orderd list-->
+            <li><i>
+               <h2> MY FAVRATE GAME OR SPORT</h2>
+            </i><ul><li>chess</li><li>cricket</li></ul>
+            </li>
+            <li><h3> my profetion in</h3>
+            <ul><li>Study material on You tube<pre><a href="https://youtube.com/@allmathematicsking7432?si=WKARe3l9loxBEtwj">Youtube </a></pre></li><li>insta gram <pre><a href="https://instagram.com/deepakmaurya5977?igshid=NGVhN2U2NjQ0Yg==">instagram</a></pre></li></ul></li>
+        </ol> 
+    </footer>
+    <body>
+        <form>
+            <form action="/action.php">
+                <h1>Enter your name for registration</h1>
+                <input type="text"placeholder="user name">
+                <br>
+                <input tye="pasword"placeholder="password">
+                <br>
+                <lebel for="101">
+                    <input type ="radio"value="class11<sup>th</sup>"name="class"id="101">class11<sup>th</sup>
+                    <input type ="radio"value="class12<sup>th</sup>"name="class"id="101">class12<sup>th</sup>
+                    <br><br>
+                </lebel>
+                <h3><big>select your sylabuss what you want</big> <small>select tick</small></h3>
+                <lebel for="math">
+                    <input type="checkbox"value="math"name="subject">math
+                </lebel>
+                <br><BR>
+                <lebel for="<big>pysics</big>">
+                    <input type="checkbox"value="pysics"name="subject">pysics
+                </lebel>
+                <br><br>
+                <lebel for="computer_science">
+                    <input type="checkbox"value="computer_science"name="subject">COMPUTER_science
+                </lebel>
+                <br><br>
+                <lebel for="fassion">
+                    <input type="checkbox"value="fassion"name="subject">fassion desine
+                </lebel>
+                <h4><big>select your reagion</big></h4>
+                <select name="city"id="city">
+                <option value="delhi">delhi</option>
+                <option value="BIHAR">BIHAR</option>
+                <option value="UP">UP</option>    
+                <option value="UTTRAKHAND">UttRAKHAND</option>
+                <option value="MAHARASTRA">MAHARASTRA</option>
+                </select>
+                <BR><BR>
+                    <h3>select yor distric</h3>
+                                    <select name="city"id="city">
+                <option value="Chakiya">Chakiya</option></option>
+                <option value="bhadohi">bhadohi</option>
+                <option value="varanashi">varanashi</option>    
+                <option value="sonebhadra">sonebhadra</option>
+                <option value="MIRzapur">mirzapur</option></option>
+                </select>
+                <br><br>
+                <small><H1>Myyou tube link</H1></small>
+                <ifram src="https://youtube.com/@allmathematicsking7432?si=WKARe3l9loxBEtwj">you tube plese subscribe</ifram>
+                    <hr>
+                <textarea name="feedback"id="101"placeholder="plese enter your feedback"row="5"column="6"></textarea>
+                <hr>
+                <input type="submit"value="submit">
+            </form>
+        </form>
+    </body>
+    
+</html>
